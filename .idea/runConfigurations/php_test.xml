@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="php.test" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" editBeforeRun="true" singleton="true">
+    <CommandLine workingDirectory="$PROJECT_DIR$" />
+    <TestRunner directory="$PROJECT_DIR$" />
+    <option name="workingDirectory" value="C:\OSPanel\domains\php.test" />
+    <method />
+  </configuration>
+</component>

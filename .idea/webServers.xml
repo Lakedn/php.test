@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c870bb56-0a81-43da-b531-f42f2c9441dd" name="OPserver-php.test" url="http://php.test">
+        <fileTransfer port="0" mountedRoot="C:\OSPanel\domains\php.test" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
