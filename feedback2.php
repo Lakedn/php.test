@@ -5,7 +5,7 @@
     <title>Форма обратной связи</title>
 </head>
 <body>
-<h1>Форма обратной связи </h1>
+<h1>Форма обратной связи 123</h1>
 <form action="" method="post">
     <input type="text" name="name" placeholder="Введите Имя" />
     <input type="text" name="email" placeholder="Введите e-mail" />
